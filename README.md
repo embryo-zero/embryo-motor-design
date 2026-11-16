@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Motor Design
+
+**Embryo Motor Design** is Embryo-Zero's fork of [pyleecan](https://github.com/Eomys/pyleecan), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # <img alt="Pyleecan" src="pyleecan/GUI/Resources/images/icon/pyleecan_64.png" height="24"> PYLEECAN
 
 [![PyPI version](https://badge.fury.io/py/pyleecan.svg)](https://badge.fury.io/py/pyleecan)
